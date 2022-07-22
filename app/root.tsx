@@ -38,6 +38,7 @@ export const meta: MetaFunction = () => {
     "twitter:site": "@remix_run",
     "twitter:title": "Remix Jokes",
     "twitter:description": description,
+    viewport: `width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no`,
   };
 };
 
